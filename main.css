@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.wrapper {
+    padding-left: 124px;
+    width: 1440px;
+    height: 1046px;
+    font-family: 'Roboto';
+}
+
+h1 {
+    width: 365px;
+    height: 93px;
+    font-size: 55px;
+    font-family: Roboto;
+}
+
+.paragraph {
+    display: flex;
+}
+
+.p-text {
+    width: 662px;
+    height: 374px;
+    font-size: 24px;
+}
+
+.image-ellepse1 {
+    width: 314px;
+    height: 315px;
+    margin-left: 164px;
+}
+
+.img1 {
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+}
+
+.image-ellepse2 {
+    width: 232px;
+    height: 203px;
+}
+
+.image2 {
+    width: 100%;
+    height: 100%;
+}
+
+.elements {
+    width: 150;
+    display: block;
+    margin-left: 90px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.elements p {
+    width: 150px;
+    font-size: 18px;
+}
